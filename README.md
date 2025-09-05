@@ -8,7 +8,7 @@
 <p align="center">
 <a href="https://github.com/kustbots//frozenvcmusicbot/stargazers"><img src="https://img.shields.io/github/stars/prashantsahlot/frozenvcmusicbot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
 <a href="https://github.com/Bhavesh01000//GMGmusicbot/network/members"> <img src="https://img.shields.io/github/forks/prashantsahlot/frozenvcmusicbot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/Bhavesh01000//GMGmusicbot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-Frozen%20Protect-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/Bhavesh01000//GMGmusicbot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-gmg%20Protect-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://github.com/Bhavesh01000/GMGmusicbot/commits/main"> <img src="https://img.shields.io/github/last-commit/prashantsahlot/frozenvcmusicbot?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
