@@ -6,11 +6,11 @@
   <img src="https://files.catbox.moe/jafmy8.png">
 </p>
 <p align="center">
-<a href="https://github.com/Bhavesh01000/GMGMUSIC_PUB/blob/main/README.md"><img src="https://img.shields.io/github/stars/prashantsahlot/frozenvcmusicbot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/Bhavesh01000/GMGMUSIC_PUB/blob/main/README.md"><img src="https://img.shields.io/github/stars/Bhavesh01000/GMGMUSIC_PUB?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
 <a href="https://github.com/Bhavesh01000//GMGmusicbot/network/members"> <img src="https://img.shields.io/github/forks/Bhavesh01000/GMGMUSIC_PUB?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 <a href="https://github.com/Bhavesh01000//GMGmusicbot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-gmg%20Protect-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/Bhavesh01000/GMGmusicbot/commits/main"> <img src="https://img.shields.io/github/last-commit/prashantsahlot/frozenvcmusicbot?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/Bhavesh01000/GMGMUSIC_PUB/commits/main"> <img src="https://img.shields.io/github/last-commit/Bhavesh01000/GMGMUSIC_PUB?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 ---
@@ -29,10 +29,10 @@
 ## 💡 Quick Deploy
 
 <p align="center">
-<a href="https://render.com/deploy?repo=https://github.com/kustbots/frozenvcmusicbot"><img src="https://img.shields.io/badge/-Deploy%20to%20Render-blueviolet?style=for-the-badge&logo=render"></a>
-<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/kustbots/frozenvcmusicbot&branch=main&name=frozen-music-bot"><img src="https://img.shields.io/badge/-Deploy%20to%20Koyeb-green?style=for-the-badge&logo=koyeb"></a>
-<a href="https://railway.app/new/template?template=https://github.com/kustbots/frozenvcmusicbot&plugins=postgresql"><img src="https://img.shields.io/badge/-Deploy%20to%20Railway-cyan?style=for-the-badge&logo=railway"></a>
-<a href="https://heroku.com/deploy?template=https://github.com/kustbots/frozenvcmusicbot"><img src="https://img.shields.io/badge/-Deploy%20to%20Heroku-purple?style=for-the-badge&logo=heroku"></a>
+<a href="https://render.com/deploy?repo=https://github.com/Bhavesh01000/GMGMUSIC_PUB"><img src="https://img.shields.io/badge/-Deploy%20to%20Render-blueviolet?style=for-the-badge&logo=render"></a>
+<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/Bhavesh01000/GMGMUSIC_PUB&branch=main&name=frozen-music-bot"><img src="https://img.shields.io/badge/-Deploy%20to%20Koyeb-green?style=for-the-badge&logo=koyeb"></a>
+<a href="https://railway.app/new/template?template=https://github.com/Bhavesh01000/GMGMUSIC_PUB&plugins=postgresql"><img src="https://img.shields.io/badge/-Deploy%20to%20Railway-cyan?style=for-the-badge&logo=railway"></a>
+<a href="https://heroku.com/deploy?template=https://github.com/Bhavesh01000/GMGMUSIC_PUB"><img src="https://img.shields.io/badge/-Deploy%20to%20Heroku-purple?style=for-the-badge&logo=heroku"></a>
 </p>
 
 
